@@ -23,6 +23,7 @@ dependencies {
 	implementation 'org.apache.commons:commons-io:1.3.2'
 	compile 'org.apache.tika:tika-core:1.23'
 	compile 'org.apache.tika:tika-parsers:1.23'
+	compile 'org.lucee:jmimemagic:0.1.5'
 
 	runtime 'org.springframework.boot:spring-boot-actuator'
 	runtime 'org.springframework.boot:spring-boot-actuator-autoconfigure'
